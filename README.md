@@ -1,2 +1,2 @@
-# Insurance_predection
+# Insurance_pridection
 pridect of insurance using linear regression 
